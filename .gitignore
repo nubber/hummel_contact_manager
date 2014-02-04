@@ -1,0 +1,5 @@
+.settings/
+.buidpath
+.project
+application/cache
+application/logs

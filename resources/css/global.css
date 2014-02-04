@@ -1,0 +1,19 @@
+
+body{
+	padding-top:60px;
+}
+
+
+section#contacts {
+	margin: 0 auto;
+}
+
+.contact_list { min-height:250px; }
+.contact_list ul { padding:0; margin:0; }
+.contact_list ul li { list-style:none; background:#333; padding:5px 10px; margin:1px 0; }
+
+.contact_card_container { background:#292929; border-radius:24px; padding:10px 40px; }
+
+#contact_on_map { margin-bottom:10px;}
+ul.instafeed li { display:inline; list-style:none;}
+ul.instafeed li img { max-width:100px;}
