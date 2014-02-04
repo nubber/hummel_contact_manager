@@ -1,4 +1,4 @@
-### A CodeIgniter based Content Management Application.
+### A CodeIgniter based Contact Management Application.
 ---------------------------------------------------
 
 	VERSION 0.1

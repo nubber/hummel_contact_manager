@@ -46,11 +46,8 @@
 					  <!-- more -->
 					  <div id="contact_more_fields" style="display:none;">
 						    <p><strong>Website URL:</strong> <?= $contact->website ?></p>
-							 
-							  <h3>Latest From Twitter <a href='https://twitter.com/<?= $contact->twitter_handle ?>'>@<?= $contact->twitter_handle ?></a></h3>
-							  
 								  
-								  <h3>Latest from Instagram <a href='https://instagram.com/<?= $contact->instagram_handle ?>'>@<?= $contact->instagram_handle ?></h3>
+							<h3>Latest from Instagram <a href='https://instagram.com/<?= $contact->instagram_handle ?>'>@<?= $contact->instagram_handle ?></h3>
 							  <iframe src="http://widget.stagram.com/in/<?= $contact->instagram_handle ?>/?s=100&w=3&h=3&b=1&p=5" allowtransparency="true" frameborder="0" scrolling="no" style="border:none;overflow:hidden;width:100%; height: 345px" ></iframe> <!-- Webstagram - web.stagram.com -->
 
 				  	  </div>
