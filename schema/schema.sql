@@ -55,8 +55,8 @@ CREATE TABLE IF NOT EXISTS `contacts` (
 --
 
 INSERT INTO `contacts` (`id`, `user_id`, `first_name`, `last_name`, `nick_name`, `company`, `phone`, `email`, `address`, `city`, `state`, `zip`, `country`, `messenger`, `website`, `birth_date`, `twitter_handle`, `instagram_handle`, `created_at`, `updated_at`) VALUES
-(8, NULL, 'jason', 'Hummel', 'jason hummel', 'Jummel Interactive', '7609007280', 'jason@hummelinteractive.com', '15255 bluffview st', 'fontana', 'ca', '92336', 'United States', NULL, 'hummelinteractive.com', '005/27/1983', 'jummell', 'nubber', '0000-00-00 00:00:00', '2014-02-03 16:22:40'),
-(10, NULL, 'Ted', 'Bundy', 'Teddy', 'Marrie with children Inc.', '221-559-4864', 'ted@bundy.com', '125 Pecks Rd.', 'New York', 'MA', '32212', 'US', NULL, 'asdfadf', '07/21/1945', 'ted', 'ted', '0000-00-00 00:00:00', '2014-02-03 16:18:55'),
+(8, NULL, 'jason', 'Hummel', 'jbob', 'Jummel Interactive', '7609007280', 'jason@hummelinteractive.com', '15255 bluffview st', 'fontana', 'ca', '92336', 'United States', NULL, 'http://hummelinteractive.com', '005/27/1983', 'jbob', 'jbob', '0000-00-00 00:00:00', '2014-02-03 16:22:40'),
+(10, NULL, 'Ted', 'Bundy', 'Teddy', 'Married with children Inc.', '221-559-4864', 'ted@bundy.com', '125 Pecks Rd.', 'New York', 'MA', '32212', 'US', NULL, 'http://asdf.com', '07/21/1945', 'ted', 'ted', '0000-00-00 00:00:00', '2014-02-03 16:18:55'),
 (11, NULL, 'Tom', 'Cruize', 'Tommy', 'Cuize Inc', '2939230', 'Cruz@cool.com', '234 Fullerton Ave.', 'Fullerton', 'CA', '', '', NULL, '', '02/20/1960', 'myspacetom', 'myspacetom', '0000-00-00 00:00:00', '2014-02-03 16:21:32'),
 (12, NULL, 'John', 'Appleseed', 'Johnnyseed', 'Apple Inc', '293-343-2343', 'john@apple.com', '1 Infinit Loop.', 'Cupertino', 'CA', '', 'United States', NULL, 'http://apple.com', '02/19/1974', 'john', 'john', '0000-00-00 00:00:00', '2014-02-03 16:18:58'),
 (13, NULL, 'Zooey', 'Dechanel', 'Zooey', '', '455-444-3434', 'zoe@wonderful.com', '8302 S Brighton Loop Rd', 'Brighton', 'UT', '43345', 'United States', NULL, 'http://zooeydeschanel.com', '09/13/1988', 'zooeydeschanel', 'zooeydeschanel', '0000-00-00 00:00:00', '2014-02-03 16:18:48'),
