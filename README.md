@@ -8,7 +8,7 @@
 Installation
 -------------------
 1. Checkout the git repo into your local web server document root. Be sure the application folder name is 'hummel_contact_manager'. If you change application directory to something else, be sure to update the .htaccess RewriteBase to match accordingly.
-2. Run the schema .sql file to setup the database. The schema can be found in: hummel_contact_manager/schema/schema.sql
+2. Run the schema .sql file to setup the database(MySQL). The schema can be found in: hummel_contact_manager/schema/schema.sql
 3. Navigate to http://localhost/hummel_contact_manager/ in your web browser.
 
 
